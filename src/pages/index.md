@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Carebase- the right choice
 image: /img/1920x-jumbotronroomshot.jpg
 heading: 'Choice, quality and value'
 subheading: Making a difference
