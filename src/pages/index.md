@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+image: /img/1920x-jumbotronroomshot.jpg
 heading: 'Choice, quality and value'
 subheading: Making a difference
 mainpitch:
